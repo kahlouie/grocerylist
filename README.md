@@ -1,8 +1,17 @@
+This application is intended to be unfinished work that is refactored in mock interviews. Please clone this repo to get started.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# API
+
+In the api directory, you can run:
+`npm run dev`
+
+# Client app
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the client directory, you can run:
 
 ### `npm start`
 

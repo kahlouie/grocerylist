@@ -1,0 +1,19 @@
+{
+  "name": "grocery-list-api",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "node app.bundle.js",
+    "build": "webpack",
+    "dev": "nodemon ./App.js localhost 3080"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "webpack": "^4.43.0"
+  }
+}

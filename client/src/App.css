@@ -1,0 +1,23 @@
+.GroceryList {
+  text-align: center;
+}
+
+.Header {
+  background-color: #0aa16e;
+  min-height: 60px;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.MainContent {
+  margin-top: 103px;
+  display: flex;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  flex-direction: column;
+}
